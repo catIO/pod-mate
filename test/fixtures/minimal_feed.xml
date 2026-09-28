@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/DTDs/Podcast-1.0.dtd">
+  <channel>
+    <title>  Minimal Show  </title>
+    <image>
+      <url>https://example.com/fallback.png</url>
+    </image>
+    <item>
+      <title>Only Episode</title>
+      <enclosure url="https://example.com/only.mp3"/>
+      <itunes:duration>45:30</itunes:duration>
+    </item>
+  </channel>
+</rss>
